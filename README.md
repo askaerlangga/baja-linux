@@ -4,5 +4,5 @@
 </p>
 
 -----------
+
 Dokumentasi pengembangan sistem operasi BAJA Linux
-Remastering Manjaro Linux
