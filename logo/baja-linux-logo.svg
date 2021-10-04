@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg4940"
+   inkscape:version="1.1.1 (1:1.1+202109281943+c3084ef5ed)"
+   sodipodi:docname="baja-linux-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4942"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.8676908"
+     inkscape:cx="397.60708"
+     inkscape:cy="283.51113"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4937" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7480"
+       transform="matrix(1.0960936,0,0,1.0960936,-5.4903546,-2.979388)">
+      <g
+         id="g4921"
+         transform="matrix(7.1407135,0,0,7.1407135,-751.353,-738.46817)">
+        <circle
+           style="fill:#2a7fff;fill-opacity:1;stroke-width:0.00483847"
+           id="circle4915"
+           cx="114.37359"
+           cy="109.75495"
+           r="4.595242" />
+        <path
+           id="path4917"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.00436422px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 117.16882,106.52831 -1.94324,1.18215 c 0,0 -0.16697,-0.0711 -0.26907,-0.34642 -0.10209,-0.27531 0.062,-0.637 -0.20319,-0.62616 -0.26518,0.0108 -0.69677,0.46499 -0.46447,0.86398 0.2323,0.399 0.24447,0.56612 0.10749,0.87055 0,0 -0.11735,0.67088 -0.33732,0.92768 -0.21998,0.2568 -0.80173,1.01134 -1.33862,1.07985 -0.5369,0.0685 -0.99071,-0.48041 -0.99071,-0.48041 0,0 -0.45878,0.54398 -0.0623,1.09457 0.39649,0.55058 0.63946,0.66626 0.63025,0.74918 -0.009,0.0829 -0.0106,0.0882 -0.0106,0.0882 0,0 0.16165,1.21389 0.90768,1.1801 0.74601,-0.0338 1.80381,-0.41802 2.4843,-0.92547 0.39387,-0.29371 1.45895,-0.32376 2.44244,-0.34837 a 4.236734,4.236734 0 0 0 0.54444,-2.0777 4.236734,4.236734 0 0 0 -0.51264,-2.02016 c -0.0463,-0.0794 -0.0915,-0.15683 -0.1353,-0.23161 a 4.236734,4.236734 0 0 0 -0.84914,-0.97998 z" />
+        <path
+           style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:0.00483847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 114.54323,109.7033 c 0,0 -0.3954,0.72954 -0.62209,0.90994 -0.22669,0.1804 1.03748,0.0869 0.62209,-0.90994 z"
+           id="path4919" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:28.1522px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.703807"
+         x="8.0099888"
+         y="107.54578"
+         id="text4929"><tspan
+           sodipodi:role="line"
+           id="tspan4927"
+           x="8.0099888"
+           y="107.54578"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#2a7fff;fill-opacity:1;stroke-width:0.703807"><tspan
+             style="font-weight:bold;fill:#2a7fff;fill-opacity:1;stroke-width:0.703807"
+             id="tspan4923">baja</tspan><tspan
+             style="fill:#1a1a1a;stroke-width:0.703807"
+             id="tspan4925">linux</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
